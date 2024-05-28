@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83684917538",
+    "project_id": "proyectojenni-47a1f",
+    "storage_bucket": "proyectojenni-47a1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83684917538:android:ff0a9802be7e941c5c257b",
+        "android_client_info": {
+          "package_name": "com.jenni.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqoV1njsWb5Ij2G_0HMht1Yo3g-rRjU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
